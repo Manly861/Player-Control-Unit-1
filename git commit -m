@@ -1,0 +1,29 @@
+[33mcommit fc778e7ed38ba3e67c8a08726993c8f8fbc6b715[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Ly_Man <lym861@hsd.k12.or.us>
+Date:   Thu Feb 20 10:51:23 2025 -0800
+
+    fixing the view of camera
+
+[33mcommit eac6d743559859ec0bfd601c6f93f3dd84d7a84a[m
+Author: Ly_Man <lym861@hsd.k12.or.us>
+Date:   Thu Feb 20 10:37:10 2025 -0800
+
+    adding scene, vehicle and obstacle
+
+[33mcommit 42e5cf1a8ac98b2d96670c36ffdee9c04bd7ca2c[m
+Author: Ly_Man <lym861@hsd.k12.or.us>
+Date:   Tue Feb 11 11:14:22 2025 -0800
+
+    adding assets in project
+
+[33mcommit 7110254974164899399a4de89718c41cebad7d7d[m
+Author: Ly_Man <lym861@hsd.k12.or.us>
+Date:   Tue Feb 11 10:57:55 2025 -0800
+
+    adding project file
+
+[33mcommit 8c633f8ac3e8f34c0dc49fa5fa321806493c87a1[m
+Author: Ly_Man <lym861@hsd.k12.or.us>
+Date:   Tue Feb 11 10:56:29 2025 -0800
+
+    first commit
